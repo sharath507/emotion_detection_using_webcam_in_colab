@@ -1,5 +1,4 @@
-for the model 
-download it by usingthe below link
+download the model by going to the below link
 
 
 
